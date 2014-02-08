@@ -1,4 +1,4 @@
-## METRIC1.r
+## METRIC1.R
 ## This function performs the basic METRIC algorithm as presented in Chapter 3 of
 ##  "Optimal Inventory Modeling of Systems", by Craig C. Sherbrooke.
 ## 

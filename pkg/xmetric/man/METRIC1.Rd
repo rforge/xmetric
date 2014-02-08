@@ -29,8 +29,9 @@ resulting in an overall EBO performance measure.
 }
 
 \examples{
-data(METRIC1)
-Selections<-METRIC1(SherbrookeData)
+data(Sherbrooke.METRIC)
+Selections<-METRIC1(Sherbrooke.METRIC)
+
 }
 
 \keyword{ optimal inventory }
