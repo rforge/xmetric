@@ -5,7 +5,7 @@
  }
 
 \description{
- Determination of the Un-dominated Allocation of parts at a single eschelon
+ Determination of the un-dominated allocations of parts at a single echelon.
 }
 
 \usage{
@@ -17,7 +17,7 @@ Kettelle(x, limit=1e-4, data.name="", performance="FRN", show=FALSE)
 \item{limit}{The end point for performance enhancement after incremental addition of parts to stores.}
 \item{data.name}{A character string to identify the input, used only for the graphical output title} 
 \item{performance}{A character string defining the performance measure for output reporting.  
-	any entry other than "Fill Rate" will be handled as "FRN".} 
+	any entry other than "Fill Rate", or "EBO" will be handled as "FRN".} 
 \item{show}{A logical value controlling graphical output.} 
 }
 
