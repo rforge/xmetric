@@ -9,4 +9,6 @@ Description: Study of optimization algorithms for service part holdings
 License: GPL (>= 2)
 ByteCompile: no
 URL: http://www.openreliability.org
-
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
